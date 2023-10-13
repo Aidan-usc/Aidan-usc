@@ -6,3 +6,13 @@ h1 {
   color: gray;
   text-align: center;
 }
+.assign{ 
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: lightsalmon;
+}
+.assign img {
+  width: 200px;
+  padding: 10px;
+}
