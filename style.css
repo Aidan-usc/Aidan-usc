@@ -1,18 +1,52 @@
-body {
-  background-color: lawngreen; 
-  font-family: Luminari, fantasy;
-}
-h1 {
-  color: tomato;
-  text-align: center;
-}
-.assign{ 
+body
+{
   display: flex;
+  flex-wrap: wrap;
+  background: #194d33;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+  width: 100%;
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+
+a
+{
+  text-decoration: none;
+  color: black;
+}
+
+.assign
+{
+  box-shadow: 8px 8px blue;
+  display: block;
   padding: 10px;
   margin: 10px;
-  background: lightsalmon;
+  background: cyan;
+  border-radius: 0px;
 }
-.assign img {
-  width: 200px;
+
+/*
+.assign:hover
+{
+  width: 20%
+  box-shadow: 8px 8px blue;
+  display: block;
   padding: 10px;
+  margin: 10px;
+  background: cyan;
+  border-radius: 50px;
+}
+*/
+
+.assign img 
+{
+    width: 200px;
+    margin: 10px;
+    border: 10px midnightblue; 
 }
