@@ -2,7 +2,7 @@ body
 {
   display: flex;
   flex-wrap: wrap;
-  background: black;
+  background: #e7f2af;
   font-family: courier, monospace;
 }
 
