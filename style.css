@@ -3,7 +3,7 @@ body
   display: flex;
   flex-wrap: wrap;
   background: #194d33;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: courier, monospace;
 }
 
 h1
@@ -29,6 +29,7 @@ a
   margin: 10px;
   background: #f0c8f8;
   border-radius: 0px;
+  width: 600px
 }
 
 /*
