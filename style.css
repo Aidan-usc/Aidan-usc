@@ -4,6 +4,7 @@ body
   flex-wrap: wrap;
   background: #eeebbf;
   font-family: courier, monospace;
+  text-align: center;
   
 }
 
@@ -34,7 +35,7 @@ a
   border-radius: 0px;
   width: 640px;
   text-align: center;
-  
+  justify-content: center;
 }
 
 
