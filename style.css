@@ -4,6 +4,7 @@ body
   flex-wrap: wrap;
   background: #e7f2af;
   font-family: courier, monospace;
+  
 }
 
 h1
@@ -13,6 +14,7 @@ h1
   color: #07f608;
   text-align: center;
   text-decoration: underline;
+  align: center;
 }
 
 a
