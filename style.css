@@ -14,7 +14,7 @@ h1
   color: #07f608;
   text-align: center;
   text-decoration: underline;
-  align: center;
+  
 }
 
 a
@@ -33,6 +33,7 @@ a
   background: #2d4e2d;
   border-radius: 0px;
   width: 600px;
+  text-align: center;
   
 }
 
@@ -55,5 +56,5 @@ a
     margin-left: auto;
     margin-right: auto;
     border: 10px #f4f929; 
-    align: center
+    text-align: center
 }
